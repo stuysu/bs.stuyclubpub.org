@@ -1,0 +1,8 @@
+I'm a human. You're a human.
+
+Jonathan Wong
+hackthe.tech
+
+Built w/
+
+Stylus, Bootstrap, Font Awesome, and my sense of style
